@@ -1,0 +1,13 @@
+edgelist,
+from ,definiert den Sender 
+to,definiert den Empfänger 
+nodelist,
+id,identifikation der einzelnen Knoten 
+name,gibt den vollständigen Namen der Spielerin an 
+type,definiert ob es sich um eine Person oder um eine Organisation handelt 
+birth,definiert das Geburtsjahr der Spielerinnen
+age,"definiert das Alter der Spielerinnen (0=unter 21, 1=21-23, 2=24-26, 3=27-30, 4=über 30)"
+position,"definiert die Position der Spielerinnen (0=Libero, 1=Diagonal, 2=Außenangriff, 3=Zuspiel, 4=Mittelblock)"
+country,"definiert den Geburtsort der Spielerinnen (0=Deutschland, 1=Finnland, 2=USA, 3=Niederlande, 4=Spanien, 5=Polen, 6=Belgien, 7=Bulgarien)"
+height,"definiert die Größe der Spielerinnen (0=160-170, 1=171-180, 2=181-190, 3=191-200)"
+number,definiert die Rückennummer der Spielerinnen 
